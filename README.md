@@ -20,3 +20,6 @@
 - KaiserX Labs (Stuttgart Mitte/West)
 - Computer Futures / S-Three (Stuttgart Mitte)
 - BridgingIT (Heilbronn)
+
+## Meetup Termine
+- 11.10.2018 19Uhr: KaiserX Labs
