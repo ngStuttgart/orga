@@ -22,4 +22,4 @@
 - BridgingIT (Heilbronn)
 
 ## Meetup Termine
-- 11.10.2018 19Uhr: KaiserX Labs
+- 18.10.2018 19Uhr: KaiserX Labs
