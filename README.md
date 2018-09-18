@@ -12,6 +12,7 @@
 - Redux in Angular (ngRx, NgXS etc.)
 - WebSockets
 - Angular CLI
+- Native apps on web and mobile (https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7)
 
 ## Locationliste
 - PMC Services GmbH (Stuttgart Vaihingen)
@@ -23,3 +24,9 @@
 
 ## Meetup Termine
 - 18.10.2018 19Uhr: KaiserX Labs
+
+## Todos:
+- Logo entwerfen lassen (Pascal Br.)
+- Angular 7 Vortrag vorbereiten (Florian)
+- Jest Vortrag vorbereiten (Sebastian)
+- CSS Grid vorbereiten (Alex)
