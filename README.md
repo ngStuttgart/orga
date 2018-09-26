@@ -1,27 +1,31 @@
 # Angular Meetup Organisation
 
-## Themen Meetup 18.10.2018
-- Angular 7 Neuerungen/Preview (Florian)
-- Testing mit Jest (Sebastian)
-- CSS Grid: (Alex)
+## Topics Meetup October 18. 2018
+- Angular 7 Preview (Florian)
+- Testing with Jest (Sebastian)
+- CSS Grid (Alex)
 
-## Mögliche Themen für November Meetup
-- Angular braucht kein jQuery (Pascal Br.)
-- Angular und NestJS (Pascal Br.)
+## Meetup dates
+- October 18. 2018 7:00 PM: KaiserX Labs Stuttgart
+- November 20. 2018 7:00 PM: Porsche Ludwigsburg
+
+## Possible topics for our November Meetup
+- Angular needs no jQuery (Pascal Br.)
+- Angular and NestJS (Pascal Br.)
 - Native apps on web and mobile (Pascal Ba.)
-- Performance-optimierungen für \*ngFor (Florian)
-- Thema von Porsche (?)
+- Performance optimisations for \*ngFor (Florian)
+- Topic from Porsche team (?)
 
-## Liste weitere Themen
+## List of further topics
 - Advanced RxJS
-- Monorepos mit Angular
+- Monorepos with Angular
 - Angular Animations
 - Router Transitions
 - Redux in Angular (ngRx, NgXS etc.)
 - WebSockets
 - Angular CLI
 
-## Locationliste
+## List of locations
 - PMC Services (Stuttgart Vaihingen)
 - M-Way Solutions (Stuttgart Feuerbach)
 - Adam Riese (Stuttgart Nord)
@@ -31,11 +35,8 @@
 - Mackevision (?)
 - Porsche (?)
 
-## Meetup Termine
-- 18.10.2018 19Uhr: KaiserX Labs
-
 ## Todos:
-- Logo entwerfen lassen (Pascal Br.)
-- Angular 7 Vortrag vorbereiten (Florian)
-- Jest Vortrag vorbereiten (Sebastian)
-- CSS Grid vorbereiten (Alex)
+- Logo for ngStuttgart (Pascal Br.)
+- Prepare Angular 7 talk (Florian)
+- Prepare Jest talk (Sebastian)
+- Prepare CSS Grid (Alex)
