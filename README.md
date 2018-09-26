@@ -1,18 +1,23 @@
 # Angular Meetup Organisation
 
-## Themenliste
-- Migration Classic .net Anwendung -> Angular .net Core
-- Warum braucht man bei Angular kein jQuery?
-- Angular 7 (Preview)
-- CSS Grid
-- Thema aus Workshop mit Manfred Steyer
-- Testing mit Jest
+## Themen Meetup 18.10.2018
+- Angular 7 Neuerungen/Preview (Florian)
+- Testing mit Jest (Sebastian)
+- CSS Grid: (Alex)
+
+## Mögliche Themen für November Meetup
+- Angular braucht kein jQuery (Pascal Br.)
+- Angular und NestJS (Pascal Br.)
+- Native apps on web and mobile (Pascal Ba.)
+
+## Liste weitere Themen
+- Advanced RxJS
+- Monorepos mit Angular
 - Angular Animations
 - Router Transitions
 - Redux in Angular (ngRx, NgXS etc.)
 - WebSockets
 - Angular CLI
-- Native apps on web and mobile (https://blog.angular.io/apps-that-work-natively-on-the-web-and-mobile-9b26852495e7)
 
 ## Locationliste
 - PMC Services GmbH (Stuttgart Vaihingen)
@@ -20,7 +25,9 @@
 - Adam Riese (Stuttgart Nord)
 - KaiserX Labs (Stuttgart Mitte/West)
 - Computer Futures / S-Three (Stuttgart Mitte)
-- BridgingIT (Heilbronn)
+- Codecentric
+- Mackevision (?)
+- Porsche (?)
 
 ## Meetup Termine
 - 18.10.2018 19Uhr: KaiserX Labs
