@@ -38,7 +38,7 @@
 - Porsche (?)
 
 ## Todos:
-- Logo for ngStuttgart (Pascal Br.)
-- Prepare Angular 7 talk (Florian)
-- Prepare Jest talk (Sebastian)
-- Prepare CSS Grid (Alex)
+- [ ] Logo for ngStuttgart (Pascal Br.)
+- [ ] Prepare Angular 7 talk (Florian)
+- [ ] Prepare Jest talk (Sebastian)
+- [ ] Prepare CSS Grid (Alex)
