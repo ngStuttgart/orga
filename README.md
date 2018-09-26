@@ -9,6 +9,8 @@
 - Angular braucht kein jQuery (Pascal Br.)
 - Angular und NestJS (Pascal Br.)
 - Native apps on web and mobile (Pascal Ba.)
+- Performance-optimierungen für \*ngFor (Florian)
+- Thema von Porsche (?)
 
 ## Liste weitere Themen
 - Advanced RxJS
@@ -20,7 +22,7 @@
 - Angular CLI
 
 ## Locationliste
-- PMC Services GmbH (Stuttgart Vaihingen)
+- PMC Services (Stuttgart Vaihingen)
 - M-Way Solutions (Stuttgart Feuerbach)
 - Adam Riese (Stuttgart Nord)
 - KaiserX Labs (Stuttgart Mitte/West)
