@@ -1,13 +1,13 @@
 # Angular Meetup Organisation
 
-## Topics Meetup October 18. 2018
+## Topics Meetup October 18, 2018
 - Angular 7 Preview (Florian)
 - Testing with Jest (Sebastian)
 - CSS Grid (Alex)
 
 ## Meetup dates
-- October 18. 2018 7:00 PM: KaiserX Labs Stuttgart
-- November 20. 2018 7:00 PM: Porsche Ludwigsburg
+- October 18, 2018 7:00 PM: KaiserX Labs Stuttgart
+- November 20, 2018 7:00 PM: Porsche Ludwigsburg
 
 ## Possible topics for our November Meetup
 - Angular needs no jQuery (Pascal Br.)
@@ -21,9 +21,11 @@
 - Monorepos with Angular
 - Angular Animations
 - Router Transitions
-- Redux in Angular (ngRx, NgXS etc.)
+- Redux in Angular (ngRx, NgXS, etc.)
 - WebSockets
 - Angular CLI
+- Generating PDFs with Angular
+- Angular Cross Plattform Apps with Electron
 
 ## List of locations
 - PMC Services (Stuttgart Vaihingen)
