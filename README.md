@@ -33,11 +33,11 @@
 - Adam Riese (Stuttgart Nord)
 - KaiserX Labs (Stuttgart Mitte/West)
 - Computer Futures / S-Three (Stuttgart Mitte)
-- Codecentric
+- Porsche (Ludwigsburg)
+- Codecentric (Stuttgart Vaihingen)
 - Mackevision (?)
-- Porsche (?)
 
-## Todos:
+## Todos
 - [ ] Logo for ngStuttgart (Pascal Br.)
 - [ ] Prepare Angular 7 talk (Florian)
 - [ ] Prepare Jest talk (Sebastian)
