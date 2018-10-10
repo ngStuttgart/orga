@@ -38,7 +38,8 @@
 - Mackevision (?)
 
 ## Todos
-- [ ] Logo for ngStuttgart (Pascal Br.)
+- [X] Logo for ngStuttgart (Pascal Br.)
+- [ ] Logo Banner for Twitter/Meetup (Pascal Ba.)
 - [ ] Prepare Angular 7 talk (Florian)
 - [ ] Prepare Jest talk (Sebastian)
 - [ ] Prepare CSS Grid (Alex)
