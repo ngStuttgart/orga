@@ -26,6 +26,7 @@
 - Angular CLI
 - Generating PDFs with Angular
 - Angular Cross Plattform Apps with Electron
+- Angular Router/Routing In-Depth (Guards, State, Route-Matching, ...)
 
 ## List of locations
 - PMC Services (Stuttgart Vaihingen)
