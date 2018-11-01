@@ -8,13 +8,15 @@
 ## Meetup dates
 - October 18, 2018 7:00 PM: KaiserX Labs Stuttgart
 - November 20, 2018 7:00 PM: Porsche Ludwigsburg
+- December 13, 2018 7:00 PM: Computer Futures
+- Junary ?, 2018 7:00 PMC: Codecentric
 
 ## Possible topics for our November Meetup
 - Angular needs no jQuery (Pascal Br.)
 - Angular and NestJS (Pascal Br.)
 - Native apps on web and mobile (Pascal Ba.)
 - Performance optimisations for \*ngFor (Florian)
-- Topic from Porsche team (?)
+- AngularConnect Retrospective
 
 ## List of further topics
 - Advanced RxJS
@@ -41,6 +43,3 @@
 ## Todos
 - [X] Logo for ngStuttgart (Pascal Br.)
 - [ ] Logo Banner for Twitter/Meetup (Pascal Ba.)
-- [ ] Prepare Angular 7 talk (Florian)
-- [ ] Prepare Jest talk (Sebastian)
-- [ ] Prepare CSS Grid (Alex)
