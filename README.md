@@ -1,10 +1,5 @@
 # Angular Meetup Organisation
 
-## Topics Meetup October 18, 2018
-- Angular 7 Preview (Florian)
-- Testing with Jest (Sebastian)
-- CSS Grid (Alex)
-
 ## Meetup dates
 - [X] October 18, 2018 7:00 PM: KaiserX Labs Stuttgart
 - [X] November 20, 2018 7:00 PM: Porsche Ludwigsburg
@@ -44,3 +39,14 @@
 ## Todos
 - [X] Logo for ngStuttgart (Pascal Br.)
 - [ ] Logo Banner for Twitter/Meetup (Pascal Ba.)
+
+## Talks Meetup October 18, 2018
+- Angular 7 Preview (Florian)
+- Testing with Jest (Sebastian)
+- CSS Grid (Alex)
+
+## Talks Meetup November 20, 2018
+- Scalable logic between different applications like never before (Mitko)
+- Native apps on web and mobile (Pascal Ba.)
+- The Angular CLI (David Müllerchen)
+- AngularConnect Retrospective (Florian Tischler)
