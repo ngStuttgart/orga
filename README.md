@@ -6,17 +6,18 @@
 - CSS Grid (Alex)
 
 ## Meetup dates
-- October 18, 2018 7:00 PM: KaiserX Labs Stuttgart
-- November 20, 2018 7:00 PM: Porsche Ludwigsburg
-- December 13, 2018 7:00 PM: Computer Futures
-- Junary ?, 2018 7:00 PMC: Codecentric
+- [X] October 18, 2018 7:00 PM: KaiserX Labs Stuttgart
+- [X] November 20, 2018 7:00 PM: Porsche Ludwigsburg
+- [ ] December 13, 2018 7:00 PM: Computer Futures
+- [ ] Junary ?, 2018 7:00 PMC: Codecentric
 
-## Possible topics for our November Meetup
+## Possible topics for our upcomming Meetups
 - Angular needs no jQuery (Pascal Br.)
 - Angular and NestJS (Pascal Br.)
-- Native apps on web and mobile (Pascal Ba.)
+- Native apps on web and mobile - Part 2 with LiveCoding (Pascal Ba.)
 - Performance optimisations for \*ngFor (Florian)
-- AngularConnect Retrospective
+- AngularConnect Retrospective (Florian)
+- The Angular Playground (Mitko) 
 
 ## List of further topics
 - Advanced RxJS
