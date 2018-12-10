@@ -41,10 +41,10 @@
 - [X] Logo for ngStuttgart (Pascal Br.)
 - [ ] Logo Banner for Twitter/Meetup (Pascal Ba.)
 
-## Talks Meetup October 18, 2018
-- Angular 7 Preview (Florian)
-- Testing with Jest (Sebastian)
-- CSS Grid (Alex)
+## Talks Meetup December 13, 2018
+- Boost up your component development (Mitko)
+- NestJS with Angular & Server Side Rendering (Pascal Br.)
+- AngularConnect Review (Florian)
 
 ## Talks Meetup November 20, 2018
 - Scalable logic between different applications like never before (Mitko)
@@ -52,7 +52,7 @@
 - The Angular CLI (David Müllerchen)
 - AngularConnect Retrospective (Florian)
 
-## Talks Meetup December 13, 2018
-- Boost up your component development (Mitko)
-- NestJS with Angular & Server Side Rendering (Pascal Br.)
-- AngularConnect Review (Florian)
+## Talks Meetup October 18, 2018
+- Angular 7 Preview (Florian)
+- Testing with Jest (Sebastian)
+- CSS Grid (Alex)
