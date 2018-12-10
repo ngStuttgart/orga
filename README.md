@@ -50,4 +50,9 @@
 - Scalable logic between different applications like never before (Mitko)
 - Native apps on web and mobile (Pascal Ba.)
 - The Angular CLI (David Müllerchen)
-- AngularConnect Retrospective (Florian Tischler)
+- AngularConnect Retrospective (Florian)
+
+## Talks Meetup December 13, 2018
+- Boost up your component development (Mitko)
+- NestJS with Angular & Server Side Rendering (Pascal Br.)
+- AngularConnect Review (Florian)
