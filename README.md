@@ -3,16 +3,14 @@
 ## Meetup dates
 - [X] October 18, 2018 7:00 PM: KaiserX Labs Stuttgart
 - [X] November 20, 2018 7:00 PM: Porsche Ludwigsburg
-- [ ] December 13, 2018 7:00 PM: Computer Futures
-- [ ] Junary ?, 2018 7:00 PMC: Codecentric
+- [X] December 13, 2018 7:00 PM: Computer Futures
+- [ ] Junary ?, 2018 7:00 PM: Codecentric
+- [ ] February 7, 2019 7:00 PM: Novatec GmbH
 
 ## Possible topics for our upcomming Meetups
 - Angular needs no jQuery (Pascal Br.)
-- Angular and NestJS (Pascal Br.)
 - Native apps on web and mobile - Part 2 with LiveCoding (Pascal Ba.)
 - Performance optimisations for \*ngFor (Florian)
-- AngularConnect Retrospective (Florian)
-- The Angular Playground (Mitko) 
 
 ## List of further topics
 - Advanced RxJS
@@ -36,6 +34,7 @@
 - Porsche (Ludwigsburg)
 - Codecentric (Stuttgart Vaihingen)
 - Mackevision (?)
+- Novatec GmbH (Leinfelden-Echterdingen)
 
 ## Todos
 - [X] Logo for ngStuttgart (Pascal Br.)
