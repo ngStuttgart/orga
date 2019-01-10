@@ -4,8 +4,8 @@
 - [X] October 18, 2018 7:00 PM: KaiserX Labs Stuttgart
 - [X] November 20, 2018 7:00 PM: Porsche Ludwigsburg
 - [X] December 13, 2018 7:00 PM: Computer Futures
-- [ ] Junary ?, 2018 7:00 PM: Codecentric
 - [ ] February 7, 2019 7:00 PM: Novatec GmbH
+- [ ] March ?, 2019 7:00 PM: Codecentric AG
 
 ## Possible topics for our upcomming Meetups
 - Angular needs no jQuery (Pascal Br.)
@@ -39,6 +39,9 @@
 ## Todos
 - [X] Logo for ngStuttgart (Pascal Br.)
 - [ ] Logo Banner for Twitter/Meetup (Pascal Ba.)
+
+## Talks Meetup February 7, 2019
+- ...
 
 ## Talks Meetup December 13, 2018
 - Boost up your component development (Mitko)
